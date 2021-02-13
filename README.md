@@ -1,2 +1,0 @@
-# RyhtonSky
-RyhtonSky repo
