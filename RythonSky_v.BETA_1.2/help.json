@@ -1,0 +1,14 @@
+{
+    "help": [
+            ["exit:", "exits the program"],
+            ["help:", "shows a help list"],
+            ["cls:", "clears the screen"],
+            ["hunter:", "Social hunt down"],
+            ["embomb:", "EmBomber"],
+            ["locait", "LocTracker"],
+            ["scanner", "Port Scanner"],
+            ["changelog", "shows the change log"],
+            ["cmd", "open a cmd in the programm"],
+            ["reboot", "reboots the PC"]
+          ]
+}
